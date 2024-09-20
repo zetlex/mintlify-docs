@@ -22,23 +22,23 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Home",
+    "url": "https://affordablebytes.com"
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Control Panel",
+      "icon": "terminal",
+      "url": "https://panel.affordablebytes.com"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Discord Community",
+      "icon": "discord",
+      "url": "https://discord.gg/t6gqZdQKmE"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
+      "name": "Network Status",
+      "icon": "signal-bars",
       "url": "https://mintlify.com/blog"
     }
   ],
