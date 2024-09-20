@@ -25,12 +25,12 @@
     "name": "Home",
     "url": "https://affordablebytes.com"
   },
-  "anchors": [
-    {
+  "topAnchor": {
       "name": "Control Panel",
       "icon": "terminal",
       "url": "https://panel.affordablebytes.com"
-    },
+  },
+  "anchors": [
     {
       "name": "Discord Community",
       "icon": "discord",
