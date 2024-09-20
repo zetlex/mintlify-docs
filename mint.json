@@ -48,6 +48,10 @@
       "url": "https://mintlify.com/blog"
     }
   ],
+  "modeToggle": {
+  "default": "light",
+  "isHidden": true
+  },
   "navigation": [
     {
       "group": "Get Started",
