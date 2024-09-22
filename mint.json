@@ -5,7 +5,7 @@
     "dark": "/logo/dark.svg",
     "light": "https://affordablebytes.com/content/black-lettermark.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://affordablebytes.com/content/favicon.png",
   "colors": {
     "primary": "#000",
     "light": "#000",
