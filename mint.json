@@ -25,6 +25,10 @@
     "name": "Home",
     "url": "https://affordablebytes.com"
   },
+  "topAnchor": {
+    "name": "Home",
+    "icon": "building"
+  },
   "anchors": [
     {
       "name": "Control Panel",
