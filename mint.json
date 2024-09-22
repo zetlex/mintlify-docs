@@ -27,7 +27,8 @@
   },
   "topAnchor": {
     "name": "Home",
-    "icon": "building"
+    "icon": "building",
+    "iconType": "regular"
   },
   "anchors": [
     {
